@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working at Sinergia Labs, Cochin
+- 🔭 I am an experienced Software Engineer with a proven track record of working in the information technology and services industry. About 8 years of experience in software development, and have worked with a diverse range of technologies, including Python, ML, NLP, GEN AI, Pandas, PySpark, SQL, Django Rest Framework, ELK Stack, PHP, C#, HTML5, CSS, JS, and Selenium.
 <!--
 **josephthomaa/josephthomaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
